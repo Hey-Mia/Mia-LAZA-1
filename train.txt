@@ -162,3 +162,389 @@
 [A] The capital of Spain is Madrid.
 [Q] Who is the Greek god of the sea?
 [A] Poseidon is the Greek god of the sea.
+[Q] What is the capital of France?
+[A] The capital of France is Paris.
+[Q] How many planets are in our solar system?
+[A] There are eight planets in our solar system.
+[Q] What is the tallest mountain in the world?
+[A] Mount Everest is the tallest mountain in the world.
+[Q] Who painted the Mona Lisa?
+[A] Leonardo da Vinci painted the Mona Lisa.
+[Q] What is the largest ocean on Earth?
+[A] The Pacific Ocean is the largest ocean on Earth.
+[Q] What is the currency of Japan?
+[A] The currency of Japan is the yen.
+[Q] Who wrote the play "Romeo and Juliet"?
+[A] William Shakespeare wrote the play "Romeo and Juliet."
+[Q] What is the formula for calculating the area of a circle?
+[A] The formula for calculating the area of a circle is πr^2.
+[Q] What is the chemical symbol for gold?
+[A] The chemical symbol for gold is Au.
+[Q] How many players are there on a soccer team?
+[A] There are eleven players on a soccer team.
+[Q] What is the capital of Australia?
+[A] The capital of Australia is Canberra.
+[Q] Who is the author of "To Kill a Mockingbird"?
+[A] Harper Lee is the author of "To Kill a Mockingbird."
+[Q] What is the largest continent on Earth?
+[A] Asia is the largest continent on Earth.
+[Q] What is the main language spoken in Brazil?
+[A] The main language spoken in Brazil is Portuguese.
+[Q] Who discovered penicillin?
+[A] Alexander Fleming discovered penicillin.
+[Q] What is the chemical symbol for oxygen?
+[A] The chemical symbol for oxygen is O.
+[Q] How many sides does a hexagon have?
+[A] A hexagon has six sides.
+[Q] What is the capital of China?
+[A] The capital of China is Beijing.
+[Q] Who painted the Sistine Chapel ceiling?
+[A] Michelangelo painted the Sistine Chapel ceiling.
+[Q] What is the largest organ in the human body?
+[A] The largest organ in the human body is the skin.
+[Q] What is the boiling point of water in Celsius?
+[A] The boiling point of water in Celsius is 100 degrees.
+[Q] Who is the current President of the United States?
+[A] The current President of the United States is Joe Biden.
+[Q] What is the formula for calculating density?
+[A] The formula for calculating density is mass divided by volume.
+[Q] What is the square root of 64?
+[A] The square root of 64 is 8.
+[Q] Who wrote the novel "1984"?
+[A] George Orwell wrote the novel "1984."
+[Q] What is the capital of Canada?
+[A] The capital of Canada is Ottawa.
+[Q] How many players are there in a baseball team?
+[A] There are nine players in a baseball team.
+[Q] Who discovered electricity?
+[A] Benjamin Franklin discovered electricity.
+[Q] What is the chemical symbol for carbon?
+[A] The chemical symbol for carbon is C.
+[Q] What is the largest desert in the world?
+[A] The largest desert in the world is the Sahara Desert.
+[Q] What is the main language spoken in Russia?
+[A] The main language spoken in Russia is Russian.
+[Q] Who is the author of "Pride and Prejudice"?
+[A] Jane Austen is the author of "Pride and Prejudice."
+[Q] What is the largest animal on Earth?
+[A] The blue whale is the largest animal on Earth.
+[Q] What is the capital of India?
+[A] The capital of India is New Delhi.
+[Q] Who painted the "Starry Night"?
+[A] Vincent van Gogh painted the "Starry Night."
+[Q] What is the speed of light?
+[A] The speed of light is approximately 299,792 kilometers per second.
+[Q] How many players are there on a basketball team?
+[A] There are five players on a basketball team.
+[Q] What is the chemical symbol for hydrogen?
+[A] The chemical symbol for hydrogen is H.
+[Q] Who wrote the play "Hamlet"?
+[A] William Shakespeare wrote the play "Hamlet."
+[Q] What is the largest waterfall in the world?
+[A] Angel Falls is the largest waterfall in the world.
+[Q] What is the main language spoken in China?
+[A] The main language spoken in China is Mandarin Chinese.
+[Q] Who is the author of "The Great Gatsby"?
+[A] F. Scott Fitzgerald is the author of "The Great Gatsby."
+[Q] What is the largest country in the world by land area?
+[A] Russia is the largest country in the world by land area.
+[Q] What is the capital of Germany?
+[A] The capital of Germany is Berlin.
+[Q] How many bones are in the human body?
+[A] There are 206 bones in the human body.
+[Q] What is the formula for calculating speed?
+[A] The formula for calculating speed is distance divided by time.
+[Q] What is the square root of 81?
+[A] The square root of 81 is 9.
+[Q] Who wrote the novel "Moby-Dick"?
+[A] Herman Melville wrote the novel "Moby-Dick."
+[Q] What is the capital of South Africa?
+[A] The capital of South Africa is Pretoria.
+[Q] How many players are there on a hockey team?
+[A] There are six players on a hockey team.
+[Q] Who discovered the theory of relativity?
+[A] Albert Einstein discovered the theory of relativity.
+[Q] What is the chemical symbol for silver?
+[A] The chemical symbol for silver is Ag.
+[Q] What is the largest lake in the world by surface area?
+[A] Lake Superior is the largest lake in the world by surface area.
+[Q] What is the main language spoken in Spain?
+[A] The main language spoken in Spain is Spanish.
+[Q] Who is the author of "The Catcher in the Rye"?
+[A] J.D. Salinger is the author of "The Catcher in the Rye."
+[Q] What is the largest city in the United States?
+[A] New York City is the largest city in the United States.
+[Q] What is the capital of Egypt?
+[A] The capital of Egypt is Cairo.
+[Q] How many players are there on a rugby team?
+[A] There are 15 players on a rugby team.
+[Q] Who discovered gravity?
+[A] Sir Isaac Newton discovered gravity.
+[Q] What is the chemical symbol for nitrogen?
+[A] The chemical symbol for nitrogen is N.
+[Q] What is the largest forest in the world?
+[A] The Amazon Rainforest is the largest forest in the world.
+[Q] What is the main language spoken in Germany?
+[A] The main language spoken in Germany is German.
+[Q] Who is the author of "The Lord of the Rings"?
+[A] J.R.R. Tolkien is the author of "The Lord of the Rings."
+[Q] What is the tallest building in the world?
+[A] The Burj Khalifa is the tallest building in the world.
+[Q] What is the capital of Brazil?
+[A] The capital of Brazil is Brasília.
+[Q] How many players are there on a volleyball team?
+[A] There are six players on a volleyball team.
+[Q] Who invented the telephone?
+[A] Alexander Graham Bell invented the telephone.
+[Q] What is the chemical symbol for iron?
+[A] The chemical symbol for iron is Fe.
+[Q] What is the largest canyon in the world?
+[A] The Grand Canyon is the largest canyon in the world.
+[Q] What is the main language spoken in France?
+[A] The main language spoken in France is French.
+[Q] Who is the author of "The Odyssey"?
+[A] Homer is the author of "The Odyssey."
+[Q] What is the largest island in the world?
+[A] Greenland is the largest island in the world.
+[Q] What is the capital of Spain?
+[A] The capital of Spain is Madrid.
+[Q] How many players are there on a cricket team?
+[A] There are eleven players on a cricket team.
+[Q] Who discovered the theory of evolution?
+[A] Charles Darwin discovered the theory of evolution.
+[Q] What is the chemical symbol for calcium?
+[A] The chemical symbol for calcium is Ca.
+[Q] What is the highest waterfall in the United States?
+[A] Angel Falls is the highest waterfall in the United States.
+[Q] What is the main language spoken in Italy?
+[A] The main language spoken in Italy is Italian.
+[Q] Who is the author of "The Iliad"?
+[A] Homer is the author of "The Iliad."
+[Q] What is the capital of Mexico?
+[A] The capital of Mexico is Mexico City.
+[Q] How many players are there on a tennis court?
+[A] There are two players on a tennis court.
+[Q] Who discovered the theory of gravity?
+[A] Sir Isaac Newton discovered the theory of gravity.
+[Q] What is the chemical symbol for potassium?
+[A] The chemical symbol for potassium is K.
+[Q] What is the largest bay in the world?
+[A] The Bay of Bengal is the largest bay in the world.
+[Q] What is the main language spoken in Japan?
+[A] The main language spoken in Japan is Japanese.
+[Q] Who is the author of "The Hobbit"?
+[A] J.R.R. Tolkien is the author of "The Hobbit."
+[Q] What is the tallest tree species in the world?
+[A] The coast redwood is the tallest tree species in the world.
+[Q] What is the capital of South Korea?
+[A] The capital of South Korea is Seoul.
+[Q] How many players are there on a golf course?
+[A] There is typically one player on a golf course.
+[Q] Who discovered the laws of motion?
+[A] Sir Isaac Newton discovered the laws of motion.
+[Q] What is the chemical symbol for sodium?
+[A] The chemical symbol for sodium is Na.
+[Q] What is the largest bay in North America?
+[A] Hudson Bay is the largest bay in North America.
+[Q] What is the main language spoken in Egypt?
+[A] The main language spoken in Egypt is Arabic.
+[Q] Who is the author of "The Chronicles of Narnia"?
+[A] C.S. Lewis is the author of "The Chronicles of Narnia."
+[Q] What is the tallest mammal in the world?
+[A] The giraffe is the tallest mammal in the world.
+[Q] What is the capital of Argentina?
+[A] The capital of Argentina is Buenos Aires.
+[Q] How many players are there on a field hockey team?
+[A] There are eleven players on a field hockey team.
+[Q] What is the chemical symbol for helium?
+[A] The chemical symbol for helium is He.
+[Q] What is the largest delta in the world?
+[A] The Ganges-Brahmaputra Delta is the largest delta in the world.
+[Q] What is the main language spoken in the United Kingdom?
+[A] The main language spoken in the United Kingdom is English.
+[Q] Who is the author of "The Chronicles of Narnia"?
+[A] C.S. Lewis is the author of "The Chronicles of Narnia."
+[Q] What is the capital of Argentina?
+[A] The capital of Argentina is Buenos Aires.
+[Q] How many players are there on a field hockey team?
+[A] There are eleven players on a field hockey team.
+[Q] Who is credited with the discovery of penicillin?
+[A] Alexander Fleming is credited with the discovery of penicillin.
+[Q] What is the chemical symbol for silver?
+[A] The chemical symbol for silver is Ag.
+[Q] What is the largest rainforest in the world?
+[A] The Amazon Rainforest is the largest rainforest in the world.
+[Q] What is the main language spoken in Mexico?
+[A] The main language spoken in Mexico is Spanish.
+[Q] Who is the author of "Pride and Prejudice"?
+[A] Jane Austen is the author of "Pride and Prejudice."
+[Q] What is the capital of Italy?
+[A] The capital of Italy is Rome.
+[Q] How many players are there on a rugby sevens team?
+[A] There are seven players on a rugby sevens team.
+[Q] Who is known for the theory of general relativity?
+[A] Albert Einstein is known for the theory of general relativity.
+[Q] What is the chemical symbol for carbon?
+[A] The chemical symbol for carbon is C.
+[Q] What is the deepest ocean in the world?
+[A] The Pacific Ocean is the deepest ocean in the world.
+[Q] What is the main language spoken in China?
+[A] The main language spoken in China is Mandarin Chinese.
+[Q] Who is the author of "The Great Gatsby"?
+[A] F. Scott Fitzgerald is the author of "The Great Gatsby."
+[Q] What is the capital of Russia?
+[A] The capital of Russia is Moscow.
+[Q] How many players are there on a cricket team?
+[A] There are eleven players on a cricket team.
+[Q] Who is credited with the discovery of electricity?
+[A] Benjamin Franklin is credited with the discovery of electricity.
+[Q] What is the chemical symbol for nitrogen?
+[A] The chemical symbol for nitrogen is N.
+[Q] What is the largest desert in Africa?
+[A] The Sahara Desert is the largest desert in Africa.
+[Q] What is the main language spoken in Germany?
+[A] The main language spoken in Germany is German.
+[Q] Who is the author of "The Lord of the Rings"?
+[A] J.R.R. Tolkien is the author of "The Lord of the Rings."
+[Q] What is the capital of Australia?
+[A] The capital of Australia is Canberra.
+[Q] How many players are there on a basketball team?
+[A] There are five players on a basketball team.
+[Q] Who is known for the theory of evolution by natural selection?
+[A] Charles Darwin is known for the theory of evolution by natural selection.
+[Q] What is the chemical symbol for gold?
+[A] The chemical symbol for gold is Au.
+[Q] What is the highest mountain in North America?
+[A] Denali (formerly known as Mount McKinley) is the highest mountain in North America.
+[Q] What is the main language spoken in Spain?
+[A] The main language spoken in Spain is Spanish.
+[Q] Who is the author of "The Catcher in the Rye"?
+[A] J.D. Salinger is the author of "The Catcher in the Rye."
+[Q] What is the capital of Brazil?
+[A] The capital of Brazil is Brasília.
+[Q] How many players are there on a volleyball team?
+[A] There are six players on a volleyball team.
+[Q] Who invented the telephone?
+[A] Alexander Graham Bell invented the telephone.
+[Q] What is the chemical symbol for iron?
+[A] The chemical symbol for iron is Fe.
+[Q] What is the largest canyon in the world?
+[A] The Grand Canyon is the largest canyon in the world.
+[Q] What is the main language spoken in France?
+[A] The main language spoken in France is French.
+[Q] Who is the author of "The Odyssey"?
+[A] Homer is the author of "The Odyssey."
+[Q] What is the largest island in the world?
+[A] Greenland is the largest island in the world.
+[Q] What is the capital of Spain?
+[A] The capital of Spain is Madrid.
+[Q] How many players are there on a cricket team?
+[A] There are eleven players on a cricket team.
+[Q] Who discovered the theory of evolution?
+[A] Charles Darwin discovered the theory of evolution.
+[Q] What is the chemical symbol for calcium?
+[A] The chemical symbol for calcium is Ca.
+[Q] What is the highest waterfall in the United States?
+[A] Angel Falls is the highest waterfall in the United States.
+[Q] What is the main language spoken in Italy?
+[A] The main language spoken in Italy is Italian.
+[Q] Who is the author of "The Iliad"?
+[A] Homer is the author of "The Iliad."
+[Q] What is the capital of Mexico?
+[A] The capital of Mexico is Mexico City.
+[Q] How many players are there on a tennis court?
+[A] There are two players on a tennis court.
+[Q] Who discovered the theory of gravity?
+[A] Sir Isaac Newton discovered the theory of gravity.
+[Q] What is the chemical symbol for potassium?
+[A] The chemical symbol for potassium is K.
+[Q] What is the largest bay in the world?
+[A] The Bay of Bengal is the largest bay in the world.
+[Q] What is the main language spoken in Japan?
+[A] The main language spoken in Japan is Japanese.
+[Q] Who is the author of "The Hobbit"?
+[A] J.R.R. Tolkien is the author of "The Hobbit."
+[Q] What is the tallest tree species in the world?
+[A] The coast redwood is the tallest tree species in the world.
+[Q] What is the capital of South Korea?
+[A] The capital of South Korea is Seoul.
+[Q] How many players are there on a golf course?
+[A] There is typically one player on a golf course.
+[Q] Who discovered the laws of motion?
+[A] Sir Isaac Newton discovered the laws of motion.
+[Q] What is the chemical symbol for sodium?
+[A] The chemical symbol for sodium is Na.
+[Q] What is the largest bay in North America?
+[A] Hudson Bay is the largest bay in North America.
+[Q] What is the main language spoken in Egypt?
+[A] The main language spoken in Egypt is Arabic.
+[Q] Who is the author of "The Chronicles of Narnia"?
+[A] C.S. Lewis is the author of "The Chronicles of Narnia."
+[Q] What is the tallest mammal in the world?
+[A] The giraffe is the tallest mammal in the world.
+[Q] What is the capital of Argentina?
+[A] The capital of Argentina is Buenos Aires.
+[Q] How many players are there on a field hockey team?
+[A] There are eleven players on a field hockey team.
+[Q] Who is credited with the discovery of penicillin?
+[A] Alexander Fleming is credited with the discovery of penicillin.
+[Q] What is the chemical symbol for silver?
+[A] The chemical symbol for silver is Ag.
+[Q] What is the largest rainforest in the world?
+[A] The Amazon Rainforest is the largest rainforest in the world.
+[Q] What is the main language spoken in Canada?
+[A] The main languages spoken in Canada are English and French.
+[Q] Who is the author of "To Kill a Mockingbird"?
+[A] Harper Lee is the author of "To Kill a Mockingbird."
+[Q] What is the capital of China?
+[A] The capital of China is Beijing.
+[Q] How many players are there on a soccer team?
+[A] There are eleven players on a soccer team.
+[Q] Who painted the Mona Lisa?
+[A] Leonardo da Vinci painted the Mona Lisa.
+[Q] What is the chemical symbol for oxygen?
+[A] The chemical symbol for oxygen is O.
+[Q] What is the highest mountain in the world?
+[A] Mount Everest is the highest mountain in the world.
+[Q] What is the main language spoken in India?
+[A] The main language spoken in India is Hindi.
+[Q] Who is the author of "1984"?
+[A] George Orwell is the author of "1984."
+[Q] What is the capital of Canada?
+[A] The capital of Canada is Ottawa.
+[Q] How many players are there on a baseball team?
+[A] There are nine players on a baseball team.
+[Q] Who discovered the theory of relativity?
+[A] Albert Einstein is known for the theory of relativity.
+[Q] What is the chemical symbol for hydrogen?
+[A] The chemical symbol for hydrogen is H.
+[Q] What is the largest lake in Africa?
+[A] Lake Victoria is the largest lake in Africa.
+[Q] What is the main language spoken in Brazil?
+[A] The main language spoken in Brazil is Portuguese.
+[Q] Who is the author of "The Great Gatsby"?
+[A] F. Scott Fitzgerald is the author of "The Great Gatsby."
+[Q] What is the capital of Germany?
+[A] The capital of Germany is Berlin.
+[Q] How many players are there on a hockey team?
+[A] There are six players on a hockey team.
+[Q] Who developed the theory of relativity?
+[A] Albert Einstein developed the theory of relativity.
+[Q] What is the chemical symbol for helium?
+[A] The chemical symbol for helium is He.
+[Q] What is the largest desert in the world?
+[A] The Sahara Desert is the largest desert in the world.
+[Q] What is the main language spoken in Russia?
+[A] The main language spoken in Russia is Russian.
+[Q] Who is the author of "The Catcher in the Rye"?
+[A] J.D. Salinger is the author of "The Catcher in the Rye."
+[Q] What is the capital of Australia?
+[A] The capital of Australia is Canberra.
+[Q] How many players are there on a basketball team?
+[A] There are five players on a basketball team.
+[Q] Who is known for the theory of evolution?
+[A] Charles Darwin is known for the theory of evolution.
+[Q] What is the chemical symbol for gold?
+[A] The chemical symbol for gold is Au.
+[Q] What is the highest mountain in North America?
+[A] Denali (formerly known as Mount McKinley) is the highest mountain in North America.

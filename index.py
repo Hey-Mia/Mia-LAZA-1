@@ -82,12 +82,12 @@ def main():
     # Testování modelu
     loaded_model, loaded_tokenizer = load_model_and_tokenizer(model_file, tokenizer_file)
     while True:
-        question = input("Položte otázku (nebo zadejte 'konec' pro ukončení): ")
-        if question.lower() == 'konec':
+        question = input("\033[91mAsk a question (or type '!end' to exit): ")
+        if question.lower() == '!end':
             break
         input_seq = preprocess_question(question, loaded_tokenizer)
         answer = generate_answer(input_seq, loaded_model, loaded_tokenizer)
-        print("Odpověď:", answer)
+        print("\033[92mAI Answer:", answer)
 
 if __name__ == "__main__":
     main()
