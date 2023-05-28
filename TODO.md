@@ -13,6 +13,8 @@ Here is list about all work on AI Model
 
 # Inprogress 👽
 
+- [ ]  Save data whats AI learned to Bynary file not on HDF
+
 # Bugs ❌
 
 - [ ]  Fix answer repations like (hello hello hello hello)
