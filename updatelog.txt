@@ -1,0 +1,7 @@
+# Update log
+
+# 28.05 Report
+- Přidána lepší logistika pro AI model
+- AI model se učí delší dobu a raguje lépe
+- Oprava problému s opakujcími se slovy a nesmyslními větami
+- Kvalitnejší kod
