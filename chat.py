@@ -1,18 +1,18 @@
 import tensorflow as tf
 from transformers import T5Tokenizer, TFT5ForConditionalGeneration
 
-# Načtení naučeného modelu a tokenizeru
+# Loading the learned model and tokenizer
 def load_model_and_tokenizer(model_file, tokenizer_file):
     loaded_model = TFT5ForConditionalGeneration.from_pretrained(model_file)
     tokenizer = T5Tokenizer.from_pretrained(tokenizer_file)
     return loaded_model, tokenizer
 
-# Předzpracování otázky
+# Pre-processing the question
 def preprocess_question(question, tokenizer):
     input_seq = tokenizer.encode(question, padding='longest', truncation=True, return_tensors='tf')
     return input_seq
 
-# Generování odpovědi
+# Generating a response
 def generate_answer(input_seq, model, tokenizer):
     output = model.generate(input_seq, max_length=100, num_beams=5, early_stopping=True)
     predicted_sentence = tokenizer.decode(output[0], skip_special_tokens=True)
