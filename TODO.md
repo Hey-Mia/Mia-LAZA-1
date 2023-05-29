@@ -10,6 +10,8 @@ Here is list about all work on AI Model
 - [ ]  Make better quaility of Answers
 - [ ]  add dataset to better formate
 - [ ]  Make AI system on better system like (GPT)
+- [ ]  Add AI own informations like AI name
+- [ ]  Add AI API Sources
 
 # Inprogress 👽
 
