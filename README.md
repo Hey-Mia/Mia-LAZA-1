@@ -16,7 +16,17 @@ pip install -r requirements.txt
 ```bash
 python index.py
 ```
-**Note: ⚠️ The process can be very demanding on CPU + RAM**
+**Note: ⚠️ The process can be very demanding on CPU + RAM**¨
+
+#### Run chat with AI
+```bash
+python chat.py
+```
+
+#### Run learning of model
+```bash
+python chat.py
+```
 
 #### Generate new requirements.txt
 ```bash
