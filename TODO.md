@@ -9,9 +9,10 @@ Here is list about all work on AI Model
 - [ ]  Optimalization
 - [ ]  Make better quaility of Answers
 - [ ]  add dataset to better formate
-- [ ]  Make AI system on better system like (GPT)
+- [ ]  Make AI system on better system like (GPT) or something better then T5
 - [ ]  Add AI own informations like AI name
 - [ ]  Add AI API Sources
+- [ ]  Add Prompt system
 
 # Inprogress 👽
 
