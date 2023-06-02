@@ -25,7 +25,7 @@ python chat.py
 
 #### Run learning of model
 ```bash
-python chat.py
+python train.py
 ```
 
 #### Generate new requirements.txt
